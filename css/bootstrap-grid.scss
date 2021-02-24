@@ -52,13 +52,11 @@ html {
     max-width: 1140px;
   }
 }
-
 @media (min-width: 1400px) {
-  .joe_container {
+    .joe_container {
     max-width: 1320px;
   }
 }
-
 .row {
   display: -ms-flexbox;
   display: flex;
@@ -3876,5 +3874,4 @@ html {
     margin-left: auto !important;
   }
 }
-
 /*# sourceMappingURL=bootstrap-grid.css.map */
