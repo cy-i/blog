@@ -18,5 +18,5 @@ document.onkeydown = document.onkeyup = document.onkeypress = function(event) {
 }
 
 function mAlert() {
-    alert("从天上下来的都是妖怪");
+    layer.msg("从天上下来的都是妖怪");
 }
