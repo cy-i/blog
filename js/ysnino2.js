@@ -13,7 +13,7 @@
         if (window.event && window.event.keyCode == 123) {
           event.keyCode = 0;
           event.returnValue = false;
-          layer.msg("从天下来的都是妖怪！")
+          layer.msg("Hello, World")
           return false;
         }
         //ctrl+u
