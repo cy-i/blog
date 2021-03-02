@@ -18,5 +18,5 @@ document.onkeydown = document.onkeyup = document.onkeypress = function(event) {
 }
 
 function mAlert() {
-    layer.msg("从天上下来的都是妖怪");
+    layer.msg("你说彼岸灯火，心之所向；后来渔舟晚唱，烟雨彷徨。 你说水静莲香，惠风和畅；后来云遮薄月，清露如霜。 你说幽窗棋罢，再吐衷肠；后来风卷孤松，雾漫山冈。 你说红袖佯嗔，秋波流转思张敞；后来黛眉长敛，春色飘零别阮郎。");
 }
