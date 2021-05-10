@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'yzmfont';
-	src: url('../css/yzm.ttf');
+	src: url('https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/player/css/yzm.ttf');
 }
 
 button[data-balloon] {
