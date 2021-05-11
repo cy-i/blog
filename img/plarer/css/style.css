@@ -1,0 +1,68 @@
+body{
+    margin:0 auto;
+    max-width:960px;
+    min-width:320px;
+    padding-bottom:0.1px;
+    word-break:break-all;
+}
+
+.head{
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 18px;
+}
+
+.zhu{
+    margin-top: 15px;
+    padding: 10px;
+    height: 100%;
+}
+
+.yanshi{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.bt{
+    display: flex;
+    margin-top: 10px;
+    height: 40px;
+    align-items: center; 
+}
+.btt{
+    width: 8px;
+    height: 23px;
+    background: #03A9F4;
+    border-radius: 10px;
+}
+.bttnr{
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.nr{
+    display: flex;
+    height: auto;
+    background: #282c34;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: #eee;
+    padding: 10px;
+
+    
+    word-break:break-all;
+}
+
+
+/*高亮*/
+
+.mar{
+    color: #51b119;
+}
+
+.mar2{
+    color: #f40303;
+}
+
