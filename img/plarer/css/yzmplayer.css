@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'yzmfont';
-	src: url('https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/css/yzm.ttf');
+	src: url('https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/css/yzm.ttf');
 }
 
 button[data-balloon] {
@@ -2662,12 +2662,12 @@ ul::-webkit-scrollbar-track {
 	-moz-animation: spinoffPulse .9s infinite linear;
 	-webkit-animation: unset;
 	background-size: 100%;
-	background-image: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer6.gif);
+	background-image: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer6.gif);
 	top: 50%;
 	left: 50%;
 	height: 32px;
 	width: 32px;
-	background-image: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer3.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer3.png);
 	-webkit-animation: vod_loading 1s steps(30) infinite;
 	width: 54px;
 	height: 20px;
@@ -2675,7 +2675,7 @@ ul::-webkit-scrollbar-track {
 	background-size: 54px 600px;
 	animation: vod_loading 1s steps(30) infinite;
 	opacity: 1;
-	background-image: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer4.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer4.png);
 }
 
 .yzmplayer:-webkit-full-screen .yzmplayer-fulloff-icon {
@@ -2730,7 +2730,7 @@ ul::-webkit-scrollbar-track {
 }
 
 #gg {
-	background: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer7.jpg) no-repeat center;
+	background: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer7.jpg) no-repeat center;
 	background-size: contain;
 	width: 100%;
 	height: 100%;
@@ -2781,9 +2781,9 @@ ul::-webkit-scrollbar-track {
 }
 
 .loading .pic {
-	background: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/loading3.gif) no-repeat;
-	/* background: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer5.gif) no-repeat;
-	background-image: url(https://cdn.jsdelivr.net/gh/cy-j/blog@5.0.0/img/plarer/cyplayer6.gif); */
+	background: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/loading3.gif) no-repeat;
+	/* background: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer5.gif) no-repeat;
+	background-image: url(https://cdn.jsdelivr.net/gh/cy-i/blog@1.0.0/img/plarer/cyplayer6.gif); */
 	width: 80px;
 	height: 115px;
 	background-size: 100%;
